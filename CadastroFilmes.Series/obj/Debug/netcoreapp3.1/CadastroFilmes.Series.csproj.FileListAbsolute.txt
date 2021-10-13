@@ -1,0 +1,13 @@
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\bin\Debug\netcoreapp3.1\CadastroFilmes.Series.exe
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\bin\Debug\netcoreapp3.1\CadastroFilmes.Series.deps.json
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\bin\Debug\netcoreapp3.1\CadastroFilmes.Series.runtimeconfig.json
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\bin\Debug\netcoreapp3.1\CadastroFilmes.Series.runtimeconfig.dev.json
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\bin\Debug\netcoreapp3.1\CadastroFilmes.Series.dll
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\bin\Debug\netcoreapp3.1\CadastroFilmes.Series.pdb
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\obj\Debug\netcoreapp3.1\CadastroFilmes.Series.csproj.AssemblyReference.cache
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\obj\Debug\netcoreapp3.1\CadastroFilmes.Series.AssemblyInfoInputs.cache
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\obj\Debug\netcoreapp3.1\CadastroFilmes.Series.AssemblyInfo.cs
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\obj\Debug\netcoreapp3.1\CadastroFilmes.Series.csproj.CoreCompileInputs.cache
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\obj\Debug\netcoreapp3.1\CadastroFilmes.Series.dll
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\obj\Debug\netcoreapp3.1\CadastroFilmes.Series.pdb
+C:\Users\phgam\source\repos\CadastroFilmes.Series\CadastroFilmes.Series\obj\Debug\netcoreapp3.1\CadastroFilmes.Series.genruntimeconfig.cache
